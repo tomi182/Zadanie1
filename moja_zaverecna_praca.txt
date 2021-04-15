@@ -1,1 +1,3 @@
 Návrh a zapojenie inteligentého domu pomocou BBC microcontroléru
+
+V dnešnej dobe moderných technológií a čoraz rozsiahlejšieho využívania IoT zariadení je takmer na bežnom poriadku pri realizácii bývania počítať s inteligentným zapojením viacerých systémov. Neustála modernizácia riešení nás privádza k príkladom dnešných domov, ktoré využívajú na riadenie vnútorných zariadení rôzne mikrokontroléry. Príkladom je využitie BBC micro:bit miktrokontroléra ako riadiaceho člena inteligentného zapojenia dnešných domov. 
